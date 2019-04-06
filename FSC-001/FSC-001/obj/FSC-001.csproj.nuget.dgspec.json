@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A01184898\\Documents\\github\\Biosilza\\Biosilza\\FSC-001\\FSC-001\\FSC-001.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A01184898\\Documents\\github\\Biosilza\\Biosilza\\FSC-001\\FSC-001\\FSC-001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A01184898\\Documents\\github\\Biosilza\\Biosilza\\FSC-001\\FSC-001\\FSC-001.csproj",
+        "projectName": "FSC-001",
+        "projectPath": "C:\\Users\\A01184898\\Documents\\github\\Biosilza\\Biosilza\\FSC-001\\FSC-001\\FSC-001.csproj",
+        "packagesPath": "C:\\Users\\A01184898\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A01184898\\Documents\\github\\Biosilza\\Biosilza\\FSC-001\\FSC-001\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A01184898\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.15063"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.15063": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.15063": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
